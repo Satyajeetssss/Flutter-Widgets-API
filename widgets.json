@@ -1,0 +1,170 @@
+[
+    {
+        "id":1,
+        "name":"SafeArea",
+        "description":"A widget that insets its child by sufficient padding to avoid intrusions by the operating system.\nFor example, this will indent the child by enough to avoid the status bar at the top of the screen.\nIt will also indent the child by the amount necessary to avoid The Notch on the iPhone X, or other similar creative physical features of the display.",
+        "youtube link":"https://www.youtube.com/watch?v=lkF0TQJO0bA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/SafeArea-class.html"
+    },
+    {
+        "id":2,
+        "name":"Expanded",
+        "description":"A widget that expands a child of a Row, Column, or Flex so that the child fills the available space. \nUsing an Expanded widget makes a child of a Row, Column, or Flex expand to fill the available space along the main axis (e.g., horizontally for a Row or vertically for a Column). \nIf multiple children are expanded, the available space is divided among them according to the flex factor.",
+        "youtube link":"https://www.youtube.com/watch?v=_rnZaagadyo&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=3",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Expanded-class.html"
+    },
+    {
+        "id":3,
+        "name":"Hero ",
+        "description":"Hero transitions are a common UI pattern. They let the user know that they changed screens, while keeping the focus of the interaction front and center. Flutter’s Hero widget will automatically create a hero transition between two navigator routes.",
+        "youtube link":"https://youtu.be/Be9UH1kXFDw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Hero.html"
+    },
+    {
+        "id":4,
+        "name":"AnimatedContainer",
+        "description":"Animated version of Container that gradually changes its values over a period of time. \nThe AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration. \nProperties that are null are not animated. Its child and descendants are not animated.",
+        "youtube link":"https://www.youtube.com/watch?v=yI-8QHpGIP4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html"
+    },
+    {
+        "id":5,
+        "name":"Opacity",
+        "description":"A widget that makes its child partially transparent. \nThis class paints its child into an intermediate buffer and then blends the child back into the scene partially transparent.",
+        "youtube link":"https://www.youtube.com/watch?v=9hltevOHQBw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=6",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Opacity-class.html"
+    },
+    {
+        "id":6,
+        "name":"Center",
+        "description":"A widget to center all its child elements",
+        "youtube link":"https://www.youtube.com/watch?v=c726pWTtxqI",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Center-class.html"
+    },
+    {
+        "id":7,
+        "name":"FlutterLogo",
+        "description":"The Flutter logo, in widget form.",
+        "youtube link":"https://www.youtube.com/watch?v=aAmP-WcI6dg",
+        "documentation page":"https://api.flutter.dev/flutter/material/FlutterLogo-class.html"
+    },
+    {
+        "id":8,
+        "name":"HeroMode",
+        "description":"Enables or disables Heroes in the widget subtree.",
+        "youtube link":"https://www.youtube.com/watch?v=AaIASk2u1C0",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/HeroMode-class.html"
+    },
+    {
+        "id":9,
+        "name":"SingleChildScrollView",
+        "description":"Allows user to scroll the flutter page.",
+        "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html"
+    },
+    {
+        "id":10,
+        "name":"AnimatedPhysicalModel",
+        "description":"The color is animated if the animateColor property is set; otherwise, the color changes immediately at the start of the animation for the other two properties. This allows the color to be animated independently (e.g. because it is being driven by an AnimatedTheme).",
+        "youtube link":"https://www.youtube.com/watch?v=UL-Hvrz-7AQ",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedPhysicalModel-class.html"
+    },
+   {
+        "id":11,
+        "name":"CupertinoPopupSurface class",
+        "description":"Rounded rectangle surface that looks like an iOS popup surface, e.g., alert dialog and action sheet.",
+        "youtube link":"https://www.youtube.com/watch?v=2_y5YYkZoWM",
+        "documentation page":"https://api.flutter.dev/flutter/cupertino/CupertinoPopupSurface-class.html"
+    },
+    {
+        "id":12,
+        "name":"AnimatedList",
+        "description":"Use AnimatedList to make your lists more dynamic. You can use it to animate your lists when inserting or removing items.",
+        "youtube link":"https://www.youtube.com/watch?v=ZtfItHwFlZ8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=33&ab_channel=Flutter",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/AnimatedList-class.html"
+    },
+    {
+        "id":13,
+        "name":"Wrap",
+        "description":"The Wrap widget lays out its children like a row or column, but when it runs out of room, it wraps to the next line. Direction, alignment, and spacing properties can help you get the exact look you need.",
+        "youtube link":"https://www.youtube.com/watch?v=z5iw2SeFx2M&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=4&ab_channel=GoogleDevelopers",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Wrap-class.html"
+    },
+   {
+        "id":14,
+        "name":"ClipOval",
+        "description":"By default, inscribes an axis-aligned oval into its layout dimensions and prevents its child from painting outside that oval, but the size and location of the clip oval can be customized using a custom clipper.",
+        "youtube link":"https://youtu.be/vzWWDO6whIM",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/ClipOval-class.html"
+   },
+  {
+        "id":15,
+        "name":"Table",
+        "description":"A table allows the user to arrange the data in rows and columns. It is used to store and display our data in a structured format, which helps us to compare the pairs of related values easily.",
+        "youtube link":"https://youtu.be/_lbE0wsVZSw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Table-class.html"
+   },
+    {
+        "id":16,
+        "name":"ConstrainedBox",
+        "description":"A widget that imposes additional constraints on its child.",
+        "youtube link":"https://youtu.be/o2KveVr7adg",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html"
+   },
+     {
+        "id":17,
+        "name":"SnackBar ",
+        "description":"SnackBar lets you pop up a message for a few seconds at the bottom of your app.",
+        "youtube link":"https://youtu.be/zpO6n_oZWw0?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&t=10",
+        "documentation page":"https://api.flutter.dev/flutter/material/SnackBar-class.html"
+   },
+    {
+        "id":18,
+        "name":"AboutDialog",
+        "description":"An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
+        "youtube link":"https://www.youtube.com/watch?v=YFCSODyFxbE",
+        "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
+   },
+     {
+        "id":19,
+        "name":"BackdropFilter",
+        "description":"A widget that applies a filter to the existing painted content and then paints child.",
+        "youtube link":"https://www.youtube.com/watch?v=dYRs7Q1vfYI",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/BackdropFilter-class.html"
+   },
+     {
+        "id":20,
+        "name":"Text",
+        "description":"The Text widget displays a string of text with single style.",
+        "youtube link":"https://www.youtube.com/watch?v=WYbXv9WtVwE",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Text-class.html"
+    },
+      {
+        "id":21,  
+        "name":"Layout",
+        "description":"This bundle of widgets helps in placing the other widgets on the screen as needed",
+        "youtube link":"https://www.youtube.com/watch?v=uisLoOmtISk",
+        "documentation page":"https://api.flutter.dev/flutter/material/AboutDialog-class.html"
+   },
+    {
+        "id":22,
+        "name":"AssetImage",
+        "description":"Fetches an image from an AssetBundle, having determined the exact image to use based on the context.",
+        "youtube link":"https://www.youtube.com/watch?v=Hxh6nNHSUjo",
+        "documentation page":"https://api.flutter.dev/flutter/painting/AssetImage-class.html"
+   },
+    {
+        "id":23,
+        "name":"RefreshIndicator",
+        "description":"A widget that supports the Material \"swipe to refresh\" idiom.",
+        "youtube link":"https://www.youtube.com/watch?v=ORApMlzwMdM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=108",
+        "documentation page":"https://api.flutter.dev/flutter/material/RefreshIndicator-class.html"
+   },
+    {
+        "id":24,
+        "name":"RichText Class",
+        "description":"A paragraph of rich text.",
+        "youtube link":"https://youtu.be/rykDVh-QFfw",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/RichText-class.html"
+    }
+]
