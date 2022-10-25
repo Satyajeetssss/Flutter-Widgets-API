@@ -173,5 +173,12 @@
         "description":"A widgit that prest us a basic applayout it consistof propreties like appbar, body ,floating action button, bottom navidation bar etc",
         "youtube link":"https://youtu.be/gtxP_ck-jCc",
         "documentation page":"https://api.flutter.dev/flutter/material/Scaffold-class.html"
+    },
+    {
+        "id":,
+        "name":"Row",
+        "description":"A widget that displays its children in a horizontal array.",
+        "youtube link":"https://youtu.be/riHDBEfTT2I",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Row-class.html"
     }
 ]
