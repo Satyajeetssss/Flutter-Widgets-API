@@ -175,6 +175,7 @@
         "documentation page":"https://api.flutter.dev/flutter/material/Scaffold-class.html"
     },
 
+
     
      {
         "id":26,
@@ -190,5 +191,12 @@
         "description":"A widget that positions its children relative to the edges of its box.",
         "documentation page":"https://api.flutter.dev/flutter/widgets/Stack-class.html"
 
-    }
+    },
+    {
+        "id":28,
+        "name":"Row",
+        "description":"A widget that displays its children in a horizontal array.",
+        "youtube link":"https://youtu.be/riHDBEfTT2I",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Row-class.html"
+        }
 ]
