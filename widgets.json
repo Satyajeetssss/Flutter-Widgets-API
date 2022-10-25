@@ -198,5 +198,13 @@
         "description":"A widget that displays its children in a horizontal array.",
         "youtube link":"https://youtu.be/riHDBEfTT2I",
         "documentation page":"https://api.flutter.dev/flutter/widgets/Row-class.html"
-        }
+    },
+     
+    {
+         "id":,
+        "name":"Column",
+        "description":"A widget that displays its children in a vertical array.",
+        "youtube link":"https://youtu.be/iD8JApHA938",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Column-class.html"
+    }
 ]
