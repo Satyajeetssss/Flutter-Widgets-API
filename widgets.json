@@ -173,5 +173,11 @@
         "description":"A widgit that prest us a basic applayout it consistof propreties like appbar, body ,floating action button, bottom navidation bar etc",
         "youtube link":"https://youtu.be/gtxP_ck-jCc",
         "documentation page":"https://api.flutter.dev/flutter/material/Scaffold-class.html"
+    },
+    {
+        "id":26,
+        "name":"Stack",
+        "description":"A widget that positions its children relative to the edges of its box.",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Stack-class.html"
     }
 ]
