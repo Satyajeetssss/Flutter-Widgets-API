@@ -174,6 +174,7 @@
         "youtube link":"https://youtu.be/gtxP_ck-jCc",
         "documentation page":"https://api.flutter.dev/flutter/material/Scaffold-class.html"
     },
+
     
      {
         "id":26,
@@ -181,5 +182,13 @@
         "description":"A modal bottom sheet is an alternative to a menu or a dialog and prevents the user from interacting with the rest of the app. Modal bottom sheets can be created and displayed with the showModalBottomSheet function.",
         "youtube link":"https://youtu.be/pcHViPPbSHQ",
         "documentation page":"https://api.flutter.dev/flutter/material/BottomSheet-class.html"
+     },
+
+    {
+        "id":27,
+        "name":"Stack",
+        "description":"A widget that positions its children relative to the edges of its box.",
+        "documentation page":"https://api.flutter.dev/flutter/widgets/Stack-class.html"
+
     }
 ]
