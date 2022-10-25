@@ -173,5 +173,13 @@
         "description":"A widgit that prest us a basic applayout it consistof propreties like appbar, body ,floating action button, bottom navidation bar etc",
         "youtube link":"https://youtu.be/gtxP_ck-jCc",
         "documentation page":"https://api.flutter.dev/flutter/material/Scaffold-class.html"
+    },
+    
+     {
+        "id":26,
+        "name":"BottomSheet",
+        "description":"A modal bottom sheet is an alternative to a menu or a dialog and prevents the user from interacting with the rest of the app. Modal bottom sheets can be created and displayed with the showModalBottomSheet function.",
+        "youtube link":"https://youtu.be/pcHViPPbSHQ",
+        "documentation page":"https://api.flutter.dev/flutter/material/BottomSheet-class.html"
     }
 ]
